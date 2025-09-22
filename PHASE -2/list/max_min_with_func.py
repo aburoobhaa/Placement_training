@@ -17,4 +17,10 @@ when i used list(input()) -> took the spaces too
             list(input().strip()) -> make the gap as a element
             list(input().strip().split()) -> correct as list 
 
+
+
+list.sort() -----> sort in place of original list
+sorted_list = sorted(list) ----> sort by creating new list
+
+
 '''
